@@ -71,6 +71,13 @@ img {
     font-family: "Alex-brush";
 }
 
+#attribute{
+    margin-top: 31em;
+    color: white;
+    font-size: xx-small;
+    opacity: 0.6;
+}
+
 .form-block{
     flex: 1 1 25%;
 
